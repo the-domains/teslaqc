@@ -1,29 +1,40 @@
-name: TeslaQc
 favicon: null
-layout_spectrum: 0.00098
-typography_spectrum: 0.74658
-title: Tesla au Québec
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TeslaQc
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#030609'
-    - '#4b4f52'
-    - '#837c76'
-    - '#ced2d1'
-    - '#75a4d7'
-  brandStrength: 0.25
-  lightness: 0.25
-  saturation: 1
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.4590441682375968
+  brandStrength: 0.6598851406015456
+  rhythmicContrast: 0.9320563210640103
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  lightness: 0.2657667668536305
+typography_spectrum: 0.7688172
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.779779264703393
+analytics:
+  twitter: null
+  google: null
+  facebook: null
