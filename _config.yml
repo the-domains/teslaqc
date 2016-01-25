@@ -1,0 +1,28 @@
+name: TeslaQc
+favicon: null
+layout_spectrum: 0.779779264703393
+typography_spectrum: 0.8946294437628239
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6598851406015456
+  lightness: 0.26576676685363054
+  saturation: 0.45904416823759675
+  rhythmicContrast: 0.9320563210640103
+purpose: []
