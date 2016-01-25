@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TeslaQc]]></title>
         <description><![CDATA[TeslaQc]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/teslaqc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 02:50:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 02:58:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/teslaqc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b07bb4f-7dd4-443c-9b77-5613452b7b24.jpg">]]></description>
-            <link>undefined351e4ec0-43b2-4b80-8a01-063b9dd0669e/index.html</link>
+            <title><![CDATA[Tesla au Québec]]></title>
+            <description><![CDATA[<article><h1>Tesla au Québec</h1><p>Tesla Model S au Québec</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc449900da42f04d67d00ee51e5fe537b557645a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/teslaqc/351e4ec0-43b2-4b80-8a01-063b9dd0669e/index.html</link>
             <guid isPermaLink="false">351e4ec0-43b2-4b80-8a01-063b9dd0669e</guid>
-            <pubDate>Mon, 25 Jan 2016 02:50:19 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 02:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
