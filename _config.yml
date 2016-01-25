@@ -2,6 +2,7 @@ name: TeslaQc
 favicon: null
 layout_spectrum: 0.00098
 typography_spectrum: 0.5
+title: Tesla au Québec
 cta:
   domain: null
   bucket: null
