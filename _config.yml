@@ -1,8 +1,30 @@
-layout_spectrum: 1
+typography_spectrum: 0.7688172
+color:
+  saturation: 0.4590441682375968
+  brandStrength: 0.6598851406015456
+  rhythmicContrast: 0.9320563210640103
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  lightness: 0.2657667668536305
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: TeslaQc
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,26 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: TESLA
 purpose: []
-color:
-  saturation: 0.4590441682375968
-  brandStrength: 0.6598851406015456
-  rhythmicContrast: 0.9320563210640103
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  lightness: 0.2657667668536305
-typography_spectrum: 0.7688172
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: TeslaQc
